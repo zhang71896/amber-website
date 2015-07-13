@@ -1,0 +1,32 @@
+
+
+.CheckBoxClass,.RadioClass{
+    display: none;
+}
+.CheckBoxLabelClass{
+    background: url("../images/uncheck.png") no-repeat;
+    padding-left: 20px;
+    margin-top: 15px;
+    height: 28px;
+    width: 150px;
+
+}
+.CheckBoxLabelClass:hover, .RadioLabelClass:hover{
+    text-decoration: underline;
+}
+.LabelSelected{
+    background: url("../images/check.jpg") no-repeat;
+}
+.RadioLabelClass{
+    background: url("../images/uncheck.png") no-repeat;
+    padding-left: 30px;
+    padding-top: 3px;
+    margin: 5px;
+    height: 28px;
+    width: 70px;
+    display: block;
+    float: left;
+}
+.RadioSelected{
+    background: url("../images/uncheck.png") no-repeat;
+}

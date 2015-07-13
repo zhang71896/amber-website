@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap 实例 - 模态框（Modal）插件</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/site.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $(".CheckBoxClass").change(function(){
+                if($(this).is(":checked")){
+                    $(this).next("label").addClass("LabelSelected");
+                }else{
+                    $(this).next("label").removeClass("LabelSelected");
+                }
+            });
+        });
+
+    </script>
+
+     <style>
+        .CheckBoxClass,.RadioClass{
+            display: none;
+        }
+        .CheckBoxLabelClass{
+            background: url("images/uncheck.png") no-repeat;
+            padding-left: 20px;
+            margin-top: 15px;
+            height: 28px;
+            width: 150px;
+
+        }
+        .CheckBoxLabelClass:hover, .RadioLabelClass:hover{
+            text-decoration: underline;
+        }
+        .LabelSelected{
+            background: url("images/check.jpg") no-repeat;
+        }
+        .RadioLabelClass{
+            background: url("images/uncheck.png") no-repeat;
+            padding-left: 30px;
+            padding-top: 3px;
+            margin: 5px;
+            height: 28px;
+            width: 70px;
+            display: block;
+            float: left;
+        }
+        .RadioSelected{
+            background: url("images/uncheck.png") no-repeat;
+        }
+    </style>
+</head>
+<body>
+
+<h2>创建模态框（Modal）</h2>
+<!-- 按钮触发模态框 -->
+<div>
+<a  data-toggle="modal"
+        data-target="#loginModal">
+    开始演示模态框
+</a>
+<!-- 模态框（Modal）-->
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" style="font-family: "Microsoft YaHei"
+     aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close"
+                        data-dismiss="modal" aria-hidden="true">
+                    &times;
+                </button>
+               <img src="images/logo.png" width="50%">
+            </div>
+            <div class="modal-body " >
+                <form>
+                    <br>
+                    <div class="input-group ">
+                        <span class="input-group-addon" id="sizing-addon2"><img src="images/header1.png" style="width:20px;height: 20px "></span>
+                        <input type="text" class="form-control" placeholder="登录" aria-describedby="sizing-addon1">
+                    </div>
+                    <br>
+                    <div class="input-group ">
+                        <span class="input-group-addon" id="sizing-addon2"><img src="images/psw1.png"  style="width:20px;height: 20px" ></span>
+                        <input type="text" class="form-control" placeholder="密码" aria-describedby="sizing-addon1">
+                    </div>
+                    <input id="CheckBox1" type="checkbox" style=" color:#5F5F5F" class="CheckBoxClass">
+                    <label id="Label1" for="CheckBox1" class="CheckBoxLabelClass">下次自动登录</label>
+                    <a href="#" style="float: right;margin-top: 15px;">忘记密码?</a>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" style="width: 100%; font-family:"Microsoft YaHei">
+                    登录
+                </button>
+                <a style="float: right;margin-top: 15px;" data-target="#reginModal">立即注册</a>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal -->
+    </div>
+<br><br>
+
+<div>
+<button class="btn btn-primary btn-lg" data-toggle="modal"
+        data-target="#registerModal">
+    注册模块
+</button>
+<div class="modal fade" id="registerModal" tabindex="-1" role="dialog" style="font-family: "Microsoft YaHei"
+aria-labelledby="myModalLabel" aria-hidden="true"/>
+<div class="modal-dialog modal-sm">
+    <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close"
+                    data-dismiss="modal" aria-hidden="true">
+                &times;
+            </button>
+            <img src="images/logo.png" width="50%">
+        </div>
+        <div class="modal-body " >
+            <form>
+                <br>
+                <div class="input-group ">
+                    <span class="input-group-addon" id="sizing-addon2" style="width:20px;height: 20px "><img src="images/email1.png" ></span>
+                    <input type="text" class="form-control" placeholder="邮箱" aria-describedby="sizing-addon1">
+                </div>
+                <br>
+                <div class="input-group ">
+                    <span class="input-group-addon" id="sizing-addon2" style="width:20px; height: 20px "><img src="images/certifycode1.png" ></span>
+                    <input type="text" class="form-control" placeholder="输入邮箱验证码" aria-describedby="sizing-addon1">
+                </div>
+                <br>
+                <div class="input-group ">
+                    <span class="input-group-addon" id="sizing-addon2"style="width:20px;height: 20px "><img src="images/header1.png"></span>
+                    <input type="text" class="form-control" placeholder="登录" aria-describedby="sizing-addon1">
+                </div>
+                <br>
+                <div class="input-group ">
+                    <span class="input-group-addon" id="sizing-addon2" style="width:20px;height: 20px "><img src="images/psw1.png"  style="width:20px;height: 20px" ></span>
+                    <input type="text" class="form-control" placeholder="密码" aria-describedby="sizing-addon1">
+                </div>
+                <input id="CheckBox2" type="checkbox" style=" color:#5F5F5F" class="CheckBoxClass">
+                <label id="Label2" for="CheckBox2" class="CheckBoxLabelClass" style="font-size: 14px">同意会员条款</label>
+                <a href="#" style="float: right;margin-top: 15px;">忘记密码?</a>
+            </form>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-primary" style="width: 100%; font-family:"Microsoft YaHei">
+            注册
+            </button>
+            <a href="#" style="float: right;margin-top: 15px;">已有账号？？直接登录</a>
+        </div>
+    </div><!-- /.modal-content -->
+</div><!-- /.modal -->
+</div>
+</body>
+</html>

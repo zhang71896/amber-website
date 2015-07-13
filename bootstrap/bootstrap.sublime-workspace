@@ -1,0 +1,1471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ho",
+				"horizontal	(bootstrap.css)"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"hei",
+				"height	Attr"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"DIV",
+				"div"
+			],
+			[
+				"工程",
+				"工程项目比选"
+			],
+			[
+				"op",
+				"option_label"
+			],
+			[
+				"Area",
+				"AreaFilter"
+			],
+			[
+				"STA",
+				"STATIC_ROOT"
+			],
+			[
+				"p",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"paa",
+				"package"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"auth",
+				"author"
+			],
+			[
+				"ba",
+				"BaseAdmin"
+			],
+			[
+				"In",
+				"Invitation"
+			],
+			[
+				"cn",
+				"conn"
+			],
+			[
+				"fe",
+				"fetchone"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"pro",
+				"process_item_with_check"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"requ",
+				"requests"
+			],
+			[
+				"start",
+				"start_page"
+			],
+			[
+				"star",
+				"start_page"
+			],
+			[
+				"sel",
+				"selectors"
+			],
+			[
+				"ca",
+				"categoryNum"
+			],
+			[
+				"sc",
+				"scheduler_execute"
+			],
+			[
+				"kw",
+				"kwargs2"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"cla",
+				"call_later"
+			],
+			[
+				"BID",
+				"BID_COMPARE"
+			],
+			[
+				"get",
+				"get_argument"
+			],
+			[
+				"setting",
+				"settings"
+			],
+			[
+				"Bid",
+				"BidbotPipeline"
+			],
+			[
+				"pi",
+				"pipelines"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"tit",
+				"title2"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"Spp",
+				"spprec"
+			],
+			[
+				"fi",
+				"Field"
+			],
+			[
+				"batt",
+				"battlelogs"
+			],
+			[
+				"atta",
+				"attackSpeed"
+			],
+			[
+				"obj",
+				"obj2"
+			],
+			[
+				"py",
+				"physicsDef"
+			],
+			[
+				"phy",
+				"physicsDef"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"run",
+				"run_on_executor"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"base",
+				"base64"
+			],
+			[
+				"pa",
+				"parse_result"
+			],
+			[
+				"Tes",
+				"TestCase"
+			],
+			[
+				"pas",
+				"pass"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"ex",
+				"execute_sql"
+			],
+			[
+				"sta",
+				"staticmethod"
+			],
+			[
+				"li",
+				"listenPort"
+			],
+			[
+				"getp",
+				"getPeerDesc"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"proto",
+				"protocol"
+			],
+			[
+				"TCP",
+				"TCP4ClientEndpoint"
+			],
+			[
+				"int",
+				"internet"
+			],
+			[
+				"on",
+				"on_connect"
+			],
+			[
+				"io",
+				"IOLoop"
+			],
+			[
+				"log",
+				"logging"
+			],
+			[
+				"http",
+				"httpclient"
+			],
+			[
+				"conn",
+				"connect"
+			],
+			[
+				"De",
+				"DEBUG"
+			],
+			[
+				"sql",
+				"sql_result"
+			],
+			[
+				"exe",
+				"execute_db_query"
+			],
+			[
+				"que",
+				"queue"
+			],
+			[
+				"Hello",
+				"HelloModule"
+			],
+			[
+				"ty",
+				"try	Try/Except"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"thre",
+				"THREAD_T"
+			],
+			[
+				"THRE",
+				"THREAD_T"
+			],
+			[
+				"typed",
+				"typedef"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/site.css",
+			"settings":
+			{
+				"buffer_size": 3471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 13500,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 141622,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "c",
+		"selected_items":
+		[
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"pic",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Color Picker"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"jque",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"em",
+				"Set Syntax: Emmet"
+			],
+			[
+				"shel",
+				"Shell Command"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"glo",
+				"Git: Log"
+			],
+			[
+				"colors",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"REMOV",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"SFTP: Upload Folder"
+			],
+			[
+				"upl",
+				"SFTP: Upload Folder"
+			],
+			[
+				"s",
+				"SFTP: Setup Server…"
+			],
+			[
+				"gdif",
+				"Git: Diff"
+			],
+			[
+				"gdi",
+				"Git: Diff Cached Current File"
+			],
+			[
+				"gco",
+				"Git: Commit"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"gst",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Help"
+			],
+			[
+				"gsta",
+				"Git: Status"
+			],
+			[
+				"gin",
+				"Git: Init"
+			],
+			[
+				"sub",
+				"SublimeGit: Add License"
+			],
+			[
+				"gpull",
+				"Git: Pull"
+			],
+			[
+				"gini",
+				"Git: Init"
+			],
+			[
+				"git:sta",
+				"Git: Status"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: struct"
+			],
+			[
+				"forma",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"control",
+				"Package Control: List Packages"
+			],
+			[
+				"contr",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"set c+",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 512.0,
+		"history":
+		[
+			"ctags -help",
+			"ls",
+			"dir",
+			"print('d')",
+			"import os; os.system('git --version')",
+			"git",
+			"import os; os.system('git --version')",
+			"import os; print(os.getenv('PATH'))",
+			"import os; print os.getenv('PATH')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jianghao/web/bootstrap",
+		"/Users/jianghao/web/bootstrap/css",
+		"/Users/jianghao/web/bootstrap/fonts",
+		"/Users/jianghao/web/bootstrap/js"
+	],
+	"file_history":
+	[
+		"/Users/jianghao/web/bootstrap/test.html",
+		"/Users/jianghao/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jianghao/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/jianghao/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jianghao/Library/Application Support/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+		"/Users/jianghao/web/bootstrap/index.html",
+		"/Users/jianghao/Library/Application Support/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/Users/jianghao/web/bootstrap/bootstrap.sublime-project",
+		"/Users/jianghao/web/project.com/bidadmin/media/1.txt",
+		"/Users/jianghao/web/project.com/bidbot/scheduler.log",
+		"/Users/jianghao/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jianghao/web/project.com/bidadmin/bids/admin.py",
+		"/Users/jianghao/web/project.com/bidbot/bidbot/items.py",
+		"/Users/jianghao/Documents/工作相关/蒋浩.txt",
+		"/Users/jianghao/Justinmind/6.5.1/.metadata/log",
+		"/Users/jianghao/web/project.com/bidbot/bidbot/spiders/spprec_bak.py",
+		"/Users/jianghao/web/findproject/bidbot/bidbot/spiders/spprec.py",
+		"/Users/jianghao/web/project.com/bidadmin/dicts/admin.py",
+		"/Users/jianghao/web/project.com/bidadmin/bidadmin/wsgi.py",
+		"/Users/jianghao/web/findproject/mysite/mysite/wsgi.py",
+		"/Users/jianghao/web/project.com/bidadmin/dicts/models.py",
+		"/Users/jianghao/web/findproject/mysite/bids/models.py",
+		"/Users/jianghao/web/findproject/mysite/bids/admin.py",
+		"/Users/jianghao/web/project.com/bidadmin/bids/__init__.py",
+		"/Users/jianghao/web/findproject/bidbot/scrapy.cfg",
+		"/Users/jianghao/web/project.com/bidbot/bidbot/spiders/spprec.py",
+		"/Users/jianghao/web/findproject/sftp-config.json",
+		"/Users/jianghao/web/project.com/bidadmin/dicts/__init__.py",
+		"/Users/jianghao/web/project.com/bidadmin/dicts/migrations/__init__.py",
+		"/Users/jianghao/web/project.com/bidadmin/bids/models.py",
+		"/Users/jianghao/web/project.com/bidadmin/dict/migrations/__init__.py",
+		"/Users/jianghao/web/project.com/bidadmin/bidadmin/settings.py",
+		"/Users/jianghao/web/project.com/bidadmin/bidadmin/__init__.py",
+		"/Users/jianghao/web/project.com/bidadmin/bidadmin/urls.py",
+		"/Users/jianghao/web/project.com/bidadmin/uwsgi.ini",
+		"/Users/jianghao/web/project.com/bidadmin/bidadmin_nginx.conf",
+		"/Users/jianghao/web/project.com/bidbot/sftp-config.json",
+		"/Users/jianghao/web/project.com/bidadmin/sftp-config.json",
+		"/Users/jianghao/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Users/jianghao/web/project.com/bidadmin/dict/models.py",
+		"/Users/jianghao/web/project.com/bidadmin/dict/__init__.py",
+		"/Users/jianghao/web/project.com/bidadmin/dict/migrations/0001_initial.py",
+		"/Users/jianghao/web/project.com/bidadmin/dict/migrations/0002_auto_20150505_0128.py",
+		"/Users/jianghao/web/project.com/bidadmin/dict/migrations/0003_auto_20150505_0130.py",
+		"/Users/jianghao/web/project.com/bidadmin/dict/migrations/0004_auto_20150505_0141.py",
+		"/Users/jianghao/web/project.com/bidadmin/dict/migrations/0005_auto_20150505_0203.py",
+		"/Users/jianghao/web/project.com/bidadmin/dict/migrations/0007_auto_20150505_0518.py",
+		"/Users/jianghao/web/project.com/bidadmin/dicts/migrations/0001_initial.py",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/bidadmin/settings.py",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/bidadmin/__init__.py",
+		"/Users/jianghao/web/findproject/mysite/bids/__init__.py",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/dict/models.py",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/dict/__init__.py",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/dict/admin.py",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/bidadmin/urls.py",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/bids/models.py",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/bids/admin.py",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/bids/__init__.py",
+		"/Users/jianghao/web/findproject/mysite/bids/urls.py",
+		"/Users/jianghao/web/findproject/mysite/mysite/urls.py",
+		"/Users/jianghao/web/findproject/mysite/mysite/settings.py",
+		"/Users/jianghao/web/findproject/mysite/bids/views.py",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/bidadmin_nginx.conf",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/sftp-config.json",
+		"/Users/jianghao/web/project.oldjiang.com/bidadmin/uwsgi.ini",
+		"/Users/jianghao/web/bidadmin/sftp-config.json",
+		"/Users/jianghao/web/findproject/bidbot/bidbot/settings.py",
+		"/Users/jianghao/web/findproject/bidbot/bidbot/items.py",
+		"/Users/jianghao/web/findproject/mysite/static/grappelli/stylesheets/rtl.css",
+		"/Users/jianghao/Downloads/SlicerApp/qSlicerAppMainWindow.h",
+		"/Users/jianghao/web/findproject/mysite/bids/tests.py",
+		"/Users/jianghao/web/findproject/mysite/mysite/__init__.py",
+		"/Users/jianghao/web/findproject/mysite/static/grappelli/stylesheets/screen.css",
+		"/Users/jianghao/web/findproject/mysite/bids/migrations/0001_initial.py",
+		"/Users/jianghao/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/jianghao/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/jianghao/develop/hello.go",
+		"/Users/jianghao/web/findproject/mysite/static/admin/css/base.css",
+		"/Users/jianghao/web/findproject/mysite/bids/apps.py",
+		"/Users/jianghao/web/findproject/mysite/static/js/tinymce/config.js",
+		"/Users/jianghao/web/findproject/mysite/static/admin/css/changelists.css",
+		"/Users/jianghao/Downloads/SlicerApp/qSlicerAppMainWindow.cxx",
+		"/Users/jianghao/web/findproject/mysite/static/grappelli/stylesheets/screen_bak.css",
+		"/Users/jianghao/web/findproject/web/static/style.css",
+		"/Users/jianghao/web/findproject/mysite/static/admin/js/actions.js",
+		"/Users/jianghao/web/findproject/mysite/mysite/apps.py",
+		"/Users/jianghao/Downloads/SlicerApp/Resources/Translations/qSlicerApp_fr.ts",
+		"/Users/jianghao/web/findproject/bidbot/bidbot/pipelines.py",
+		"/Users/jianghao/web/findproject/bidbot/bidbot/spiders/spprec2.py",
+		"/Users/jianghao/web/findproject/web/scheduler.py",
+		"/Users/jianghao/web/findproject/bidbot/setup.py",
+		"/Users/jianghao/web/findproject/web/mysite/mysite/urls.py",
+		"/Users/jianghao/web/findproject/web/mysite/mysite/settings.py",
+		"/Users/jianghao/web/findproject/web/mysite/mysite/wsgi.py",
+		"/Users/jianghao/web/findproject/web/mysite/manage.py",
+		"/Users/jianghao/web/findproject/web/demo.py",
+		"/Users/jianghao/web/findproject/web/settings.py",
+		"/Users/jianghao/web/python/game/server_test.py",
+		"/Users/jianghao/web/findproject/web/spark/__init__.py",
+		"/Users/jianghao/web/findproject/bidbot/bidbot/spiders/sccin.py",
+		"/Users/jianghao/web/findproject/web/manage/__init__.py",
+		"/Users/jianghao/web/python/game/spark/__init__.py",
+		"/Users/jianghao/web/findproject/bidbot/bidbot/spiders/__init__.py",
+		"/Users/jianghao/web/findproject/bidbot/bidbot/__init__.py",
+		"/Users/jianghao/web/findproject/web/spark/postgresql.py",
+		"/Users/jianghao/web/findproject/web/templates/index.html",
+		"/Users/jianghao/web/findproject/web/templates/content.html",
+		"/Users/jianghao/web/python/game/bak/gate.py",
+		"/Users/jianghao/web/findproject/db.sql",
+		"/Users/jianghao/web/findproject/web/demo_mongodb.py",
+		"/Users/jianghao/web/python/game/server.py",
+		"/Users/jianghao/web/python/game/test.py",
+		"/Users/jianghao/web/python/game/gate.py",
+		"/Users/jianghao/web/python/game/pickletest.py",
+		"/Users/jianghao/web/python/game/game.py",
+		"/Users/jianghao/web/python/game/bak/web.py",
+		"/Users/jianghao/web/python/game/bak/index.py",
+		"/Users/jianghao/web/python/game/bak/game.py",
+		"/Users/jianghao/web/python/game/spark/game.py",
+		"/Users/jianghao/web/python/game/spark/network.py",
+		"/Users/jianghao/web/findproject/bidbot/bidbot/pipelines.py.bak.py",
+		"/Users/jianghao/web/game/templates/entry_module.html",
+		"/Users/jianghao/web/game/templates/login.html",
+		"/Users/jianghao/web/game/templates/result.html",
+		"/Users/jianghao/web/game/templates/document.html",
+		"/Users/jianghao/web/findproject/templates/content.html",
+		"/Users/jianghao/web/game/bak/index.py",
+		"/Users/jianghao/web/bidbot/bidbot/pipelines.py"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"<open files>,<current file>,/Users/jianghao/Downloads/gamesrc",
+			"<open files>,<current file>",
+			"/Users/jianghao/web",
+			"/Users/jianghao/develop/server/src",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"products",
+			"first-slide",
+			"News-header",
+			"华域产品",
+			"pull-right",
+			"navbar-right",
+			"navbar",
+			"media-object",
+			"xs",
+			"html",
+			"\n.navbar-brand {\n  float: left;\n  height: 70px;\n  padding: 15px 15px;\n  font-size: 18px;\n  line-height: 20px;\n}\n",
+			"logo",
+			"/images",
+			"images",
+			"/images",
+			"\"\\/",
+			"\"/",
+			"slide",
+			"marketing",
+			"navbar-brand",
+			"navbar-header",
+			"navbar",
+			"nav",
+			"navbar",
+			"nav",
+			"format",
+			"reindent",
+			"beautify",
+			"keymap",
+			";\n",
+			"contan",
+			"contain",
+			"ul",
+			"<ul>",
+			"Spprec2Spider",
+			"django.template.loaders.filesystem.Loader",
+			"fill_topic_tree",
+			"django.contrib.admin.util",
+			"STATICFILES_FINDER",
+			"STATICFILES_FINDERS s",
+			"Finder",
+			"font-size",
+			"TEMPLATE_DIR",
+			"grp-row",
+			"grp-font-color-quiet",
+			"input[type=\"bu",
+			"input[type=bu",
+			"font-size:12px",
+			"input[type=",
+			"input",
+			"font-size:11px",
+			"font-size:10px",
+			"font-size:9px",
+			"font-size:10px",
+			"font-size:9px",
+			"font-size:10px",
+			"font-size:9px",
+			"font-size:100",
+			"font-size:11px",
+			"font-size:10px",
+			"font-size:9px",
+			"font-size:10px",
+			"font-size:11px",
+			"font-size",
+			"font-size:11",
+			"font-size",
+			"field-title",
+			"10px",
+			"12px",
+			"font-size",
+			"font",
+			"font-wei",
+			"font-wen",
+			"font-we",
+			"TEMPLATE_CONTEXT_PROCESSORS",
+			"django.contrib.admin.utils",
+			"moduleManager",
+			"setupMenuActions",
+			"ViewLayoutConventionalAction",
+			"type",
+			"start_page",
+			"info",
+			"logging",
+			"dsn",
+			"init_db",
+			"bits",
+			"makeDesc",
+			"GetBattleObjectDataFromLoc",
+			"100",
+			"foo",
+			"cursor",
+			"askBattleBattleData",
+			"BattleOnline",
+			"_gates",
+			"_valid",
+			"update",
+			"localbattlelog",
+			"localbattlelog =",
+			"common_local_BattleData",
+			"localbattlelog",
+			"localbattlelog =",
+			"localbattlelog",
+			"askBattleBattleData",
+			"onNetWorkBattleData",
+			"self.onNetWorkBattleData\nself.onNetWorkBattleData",
+			"self.onNetWorkBattleData",
+			"GET_ONLINE_BATTLE_Data",
+			"Version_Res",
+			"versiondata",
+			"RoleCreate",
+			"role",
+			"onStopBattle",
+			"onGameUpdate",
+			"GameDataEvent",
+			"onInitBattleEvent",
+			"common_BattleData_View_Event_1",
+			"common_BattleData_info",
+			"onPlayBattleEvent1",
+			"handler",
+			"common_BattleData = \nonPlayBattleEvent1\nonPlayBattleEvent1\nonPlayBattleEvent1\nhandler",
+			"onPlayBattleEvent1",
+			"common_BattleData",
+			"battleUpdateLayer",
+			"CCSBattleUpdate",
+			"common_last_BattleData",
+			"common_local_BattleData",
+			"onInitBattleUI",
+			"onInitHeader"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"font-size:14px",
+			"font-size:12px",
+			"font-size:14px",
+			".",
+			"XmlNode",
+			"XmlDoc",
+			"SPK_",
+			"Jiang Hao",
+			"std::string"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/site.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								959,
+								959
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 987.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6674,
+								6674
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80336,
+								80356
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/jianghao/develop":
+	{
+		"height": 120.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 120.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 120.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 126.0
+	},
+	"output.git-init":
+	{
+		"height": 126.0
+	},
+	"output.sftp":
+	{
+		"height": 321.0
+	},
+	"pinned_build_system": "",
+	"project": "bootstrap.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"network",
+				"web/spark/network.py"
+			],
+			[
+				"data",
+				"gamesrc/common/GameData.lua"
+			],
+			[
+				"de",
+				"gamesrc/common/GameDataEvent.lua"
+			],
+			[
+				"strutil",
+				"src/common/StrUtil.h"
+			],
+			[
+				"def",
+				"src/common/Defines.h"
+			],
+			[
+				"netb",
+				"src/common/net/IOBuffer.cpp"
+			],
+			[
+				"ut",
+				"src/common/net/Utils.cpp"
+			],
+			[
+				"u",
+				"src/common/net/Utils.h"
+			],
+			[
+				"cma",
+				"src/common/CMakeLists.txt"
+			],
+			[
+				"elop",
+				"src/common/net/EventLoop.cpp"
+			],
+			[
+				"eventloo",
+				"src/common/net/EventLoop.cpp"
+			],
+			[
+				"eve",
+				"src/common/net/EventLoop.h"
+			],
+			[
+				"th",
+				"src/common/Thread.h"
+			],
+			[
+				"",
+				"src/common/Defines.h"
+			],
+			[
+				"str",
+				"src/common/StrUtil.h"
+			],
+			[
+				"strut",
+				"src/common/StrUtil.h"
+			],
+			[
+				"xml",
+				"src/common/XmlDocument.h"
+			],
+			[
+				"xmlel",
+				"src/common/XmlElement.h"
+			],
+			[
+				"defin",
+				"Src/Sparker/GlobalDefines.h"
+			],
+			[
+				"threa",
+				"Base/Thread.h"
+			],
+			[
+				"open",
+				"~/Desktop/Common/Base/XmlElement.h"
+			],
+			[
+				"thr",
+				"~/Desktop/Common/Base/Thread.h"
+			],
+			[
+				"thread",
+				"~/Desktop/Common/Base/Thread.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/web/web.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 49.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"processLog",
+				"processLog"
+			],
+			[
+				"onlo",
+				"onLog"
+			]
+		],
+		"width": 435.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

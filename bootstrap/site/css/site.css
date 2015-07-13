@@ -1,0 +1,82 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+body {
+  padding-top: 60px;
+  background-color: #ffffff;
+}
+
+
+.navbar-brand {
+  float: left;
+  height: 70px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.navbar-default {
+  background-color: #ffffff;
+  /*border-color: #e7e7e7;*/
+}
+@media (min-width: 767px) {
+  .navbar {
+    min-height: 71px;
+  }
+  .navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 50px;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 5px 5px;
+  font-size: 18px;
+  line-height: 20px;
+  }
+
+  body {
+    padding-top:51px;
+  }
+}
+
+
+.carousel-control {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 15%;
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+  filter: alpha(opacity=50);
+  opacity: .2;
+}
+
+
+.products {
+  margin-top: 25px;
+}
+
+.title .title {
+  text-align: center;
+}
+.products .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.products h2 {
+  font-weight: normal;
+}
+.products .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+

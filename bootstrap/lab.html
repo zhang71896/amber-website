@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <link rel="shortcut icon"  href="/favicon.ico" />
+  <title>华域医学</title>
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link href="css/site.css" rel="stylesheet">
+    <script src="flat-ui.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $(".CheckBoxClass").change(function(){
+                if($(this).is(":checked")){
+                    $(this).next("label").addClass("LabelSelected");
+                }else{
+                    $(this).next("label").removeClass("LabelSelected");
+                }
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+               $("#FuncTitle li").click(function()
+               {
+                   $("li").attr("class","");
+                   $(this).attr("class","active");
+               });
+        });
+
+    </script>
+
+
+
+    <style>
+        .CheckBoxClass,.RadioClass{
+            display: none;
+        }
+        .CheckBoxLabelClass{
+            background: url("images/uncheck.png") no-repeat;
+            padding-left: 20px;
+            margin-top: 15px;
+            height: 28px;
+            width: 150px;
+
+        }
+        .CheckBoxLabelClass:hover, .RadioLabelClass:hover{
+            text-decoration: underline;
+        }
+        .LabelSelected{
+            background: url("images/check.jpg") no-repeat;
+        }
+        .RadioLabelClass{
+            background: url("images/uncheck.png") no-repeat;
+            padding-left: 30px;
+            padding-top: 3px;
+            margin: 5px;
+            height: 28px;
+            width: 70px;
+            display: block;
+            float: left;
+        }
+        .RadioSelected{
+            background: url("images/uncheck.png") no-repeat;
+        }
+    </style>
+
+  </head>
+  <body>
+  <div>
+      <div class="modal fade" id="loginModal" tabindex="-1" role="dialog" style="font-family: "Microsoft YaHei"
+      aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-sm">
+          <div class="modal-content">
+              <div class="modal-header">
+                  <button type="button" class="close"
+                          data-dismiss="modal" aria-hidden="true">
+                      &times;
+                  </button>
+                  <img src="images/logo.png" width="50%">
+              </div>
+              <div class="modal-body " >
+                  <form>
+                      <br>
+                      <div class="input-group ">
+                          <span class="input-group-addon" id="sizing-addon2"><img src="images/header1.png" style="width:20px;height: 20px "></span>
+                          <input type="text" class="form-control" placeholder="昵称" aria-describedby="sizing-addon1">
+                      </div>
+                      <br>
+                      <div class="input-group ">
+                          <span class="input-group-addon" id="sizing-addon2"><img src="images/psw1.png"  style="width:20px;height: 20px" ></span>
+                          <input type="text" class="form-control" placeholder="密码" aria-describedby="sizing-addon1">
+                      </div>
+                      <input id="CheckBox1" type="checkbox" style=" color:#5F5F5F" class="CheckBoxClass">
+                      <label id="Label1" for="CheckBox1" class="CheckBoxLabelClass">下次自动登录</label>
+                      <a href="#" style="float: right;margin-top: 15px;">忘记密码?</a>
+                  </form>
+              </div>
+              <div class="modal-footer">
+                  <button type="button" class="btn btn-primary" style="width: 100%; font-family:"Microsoft YaHei">
+                  登录
+                  </button>
+                  <a style="float: right;margin-top: 15px;" data-target="#reginModal">立即注册</a>
+              </div>
+          </div><!-- /.modal-content -->
+      </div><!-- /.modal -->
+  </div>
+  <!-- 登录模块（Modal）-->
+    <!--  <div class="navbar-wrapper"> -->
+
+<div>
+  <div class="modal fade" id="registerModal" tabindex="-1" role="dialog" style="font-family: "Microsoft YaHei"
+  aria-labelledby="myModalLabel" aria-hidden="true">
+
+  <div class="modal-dialog modal-sm">
+      <div class="modal-content">
+          <div class="modal-header">
+              <button type="button" class="close"
+                      data-dismiss="modal" aria-hidden="true">
+                  &times;
+              </button>
+              <img src="images/logo.png" width="50%">
+          </div>
+          <div class="modal-body " >
+              <form>
+                  <br>
+                  <div class="input-group ">
+                      <span class="input-group-addon" id="sizing-addon2" style="width:20px;height: 20px "><img src="images/email1.png" ></span>
+                      <input type="text" class="form-control" placeholder="邮箱" aria-describedby="sizing-addon1">
+                  </div>
+                  <br>
+                  <div class="input-group ">
+                      <span class="input-group-addon" id="sizing-addon2" style="width:20px; height: 20px "><img src="images/centifycode1.png" ></span>
+                      <input type="text" class="form-control" placeholder="输入邮箱验证码" aria-describedby="sizing-addon1">
+                  </div>
+                  <br>
+                  <div class="input-group ">
+                      <span class="input-group-addon" id="sizing-addon2"style="width:20px;height: 20px "><img src="images/header1.png"></span>
+                      <input type="text" class="form-control" placeholder="昵称" aria-describedby="sizing-addon1">
+                  </div>
+                  <br>
+                  <div class="input-group ">
+                      <span class="input-group-addon" id="sizing-addon2" style="width:20px;height: 20px "><img src="images/psw1.png"  style="width:20px;height: 20px" ></span>
+                      <input type="text" class="form-control" placeholder="密码" aria-describedby="sizing-addon1">
+                  </div>
+                  <input id="CheckBox2" type="checkbox" style=" color:#5F5F5F" class="CheckBoxClass">
+                  <label id="Label2" for="CheckBox2" class="CheckBoxLabelClass" style="font-size: 14px">同意会员条款</label>
+                  <a href="#" style="float: right;margin-top: 15px;">忘记密码?</a>
+              </form>
+          </div>
+          <div class="modal-footer">
+              <button type="button" class="btn btn-primary" style="width: 100%; font-family:"Microsoft YaHei">
+              注册
+              </button>
+              <a href="#" style="float: right;margin-top: 15px;">已有账号？？直接登录</a>
+          </div>
+      </div><!-- /.modal-content -->
+  </div>
+</div>
+  <!--注册模块(Modal)-->
+
+  <div class="container">
+
+      <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+
+
+          <div class="navbar-header">
+
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">
+              <img alt="Brand" src="images/logo.png">
+            </a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+
+            <ul class="nav navbar-nav " id="FuncTitle">
+              <li class="active"><a href="index.html">首　页</a></li>
+              <li ><a href="#Product">产品中心</a></li>
+              <li ><a href="#DynamicNews">公司动态</a></li>
+                <li ><a href="#AboutUs">关于我们</a></li>
+              <li ><a href="#FeedBack">意见反馈</a></li>
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+              <li >
+                  <a href="" data-toggle="modal"data-target="#loginModal">登录</a>
+              </li>
+
+              <li><a href="" data-toggle="modal"data-target="#registerModal">用户注册</a></li>
+
+          
+
+            </ul>
+        </div>
+        </div>
+      </nav>
+    </div>
+
+	 <div    style="background-image:url('images/teach_back_ground.png');   width:100%; height:auto;background-size:90% auto; ">
+                <img src="images/lab_back_ground.png"></div>
+
+	 </div>
+      
+      
+
+    <div id="Contact" class="container-fluid">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 left ">
+            <br>
+            <h4>华域客服</h4>
+            <h5>Customer Service</h5>
+          <br>
+            <img src="images/bottomline.png" alt="">
+            <br>  <br>
+            <img src="images/qr-code.png" alt="">
+            <br>  <br> <br>
+            <img src="images/bottomline.png" alt="">
+            <br> <br>
+            <p>电 话: 86(28)6287-8600</p>
+            <p>传 真: 86(28)6287-8601</p>
+            <p>邮 箱: lh.adm@ctceg.com </p>
+            <p>邮 编: 611844</p>
+            <p>地 址: 总公司：成都都江堰市青城山镇天府软件园C5幢 <br>分部：成都市武侯区人民南路三段17号附1号1栋10层1002</p>
+            <br>
+        </div>
+        <div class="col-lg-6 right">
+        <br>
+        <h4>意见反馈</h4>
+          <form action="#">
+            <div class="form-group">
+     <label for="exampleInputEmail1">完整名称:</label>
+                <br>
+    <input type="email" class="form-control" id="exampleInputEmail1" >
+                <br>
+    <label for="exampleInputEmail1">E-mail:*</label>
+                <br>
+
+
+    <input type="email" class="form-control" id="exampleInputEmail12" placeholder="邮箱地址">
+                <br>
+     <label for="exampleInputEmail1">您的消息:*</label>
+                <br>
+       <textarea name="textarea" class="form-control"   rows="6"></textarea>
+    </div>
+              <br>
+     <button type="submit" class="btn-default btn">提交留言</button>
+          </form>
+          <br>
+        </div>
+      </div>
+    </div>  
+
+    </div>
+    <div id="Footer"  class="container-fluid">
+      <div class="container">
+      <footer>
+         <p class="pull-right"><a href="#">回到顶部</a></p>
+        <p>成都华域天府数字科技 |  版权所有 &copy; 2014-2015. All Rights Reserved. <a href="http://www.miibeian.gov.cn/" target="_blank">蜀ICP备14022369号</a> <a href="http://www.ctceg.com/content/uploads/2014/09/广播电视节目制作经营许可证-001-1024x745.jpg" target="_blank">广电节目制作经营许可证</a> <a href="http://www.ctceg.com/content/uploads/2014/09/rjcpdj1.jpg" target="_blank">软件产品登记证书</a> 
+        </p>
+      </footer>
+      </div>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+  </html>
